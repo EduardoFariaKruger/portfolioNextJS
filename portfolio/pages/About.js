@@ -1,4 +1,3 @@
-import Navbar from "../components/Navbar";
 import Head from 'next/Head';
 
 const About = () => {
@@ -11,7 +10,6 @@ const About = () => {
             <h1>About</h1>
         </div>
         </>
-
     );
 }
  
